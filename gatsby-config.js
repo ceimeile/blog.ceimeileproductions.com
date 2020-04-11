@@ -8,12 +8,14 @@ module.exports = {
   /* Your site config here */
   siteMetadata: {
     title: `Céim Eile Productions`,
-    description: `Céim Eile Productions blog`,
-    siteUrl: `https://ceimeileproductions.com.com/`,
+    description: `A starter blog demonstrating what Gatsby can do.`,
+    siteUrl: `https://blog.ceimeileproductions.com/`,
     home: {
       title: `Céim Eile Productions`,
-      description: `Welcome to the Céim Eile Productions blog!`,
+      description: `Welcome to Céim Eile Productions' blog site, we'll be updating this with everything to do with the running and development of our theatre company, as well as opportunities for those in the arts industry.`,
     },
+    /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
+    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
   },
   plugins: [
     {
