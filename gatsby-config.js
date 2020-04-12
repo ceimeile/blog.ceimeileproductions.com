@@ -15,7 +15,7 @@ module.exports = {
       description: `Welcome to Céim Eile Productions' blog site, we'll be updating this with everything to do with the running and development of our theatre company, as well as opportunities for those in the arts industry.`,
     },
     /* W3Layouts domain verification key for contact forms https://my.w3layouts.com/Forms/ */
-    w3l_dom_key: `5e609f7a2d23fCF_Domain_verify` 
+    w3l_dom_key: `5e92588552c33CF_Domain_verify` 
   },
   plugins: [
     {
